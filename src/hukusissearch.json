@@ -1,0 +1,16 @@
+{
+  "author": "aliozkanozdurmus",
+  "createdAt": "2025-01-24",
+  "homepage": "https://www.linkedin.com/in/aliozkanozdurmus/",
+  "identifier": "hukusissearch",
+  "locale": "en-US",
+  "manifest": "https://hukusis-webplugin.invenire.tr/manifest.json",
+  "meta": {
+    "avatar": "https://stinvenireaz084550184237.blob.core.windows.net/invenirecomtr-website/Hukusis-GoogleAramaEklenti-Logo.png",
+    "tags": ["hukusissearch", "search"],
+    "title": "(İnternet Araması)",
+    "description": "Hukusis Search+, kullanıcıların sorgularını doğal bir dil yapısıyla anlamlandırabilir ve karmaşık sorgularla başa çıkabilir. Kullanıcıların detaylı veya belirsiz taleplerini analiz ederek en uygun sonuçları sunar.",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}

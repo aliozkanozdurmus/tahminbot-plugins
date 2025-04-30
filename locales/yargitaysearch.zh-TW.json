@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "最高法院判決搜索",
+    "description": "使用進階篩選功能搜索超過1500萬份最高法院(Yargıtay)判決。這個由Hukusis開發的專業法律研究工具，允許您進行全文搜索，並通過法庭、案件編號、判決編號和日期篩選訪問判決的詳細內容。",
+    "search": {
+      "placeholder": "輸入搜索詞或主題",
+      "button": "搜索"
+    },
+    "results": {
+      "title": "搜索結果",
+      "noResults": "未找到結果",
+      "loading": "搜索中...",
+      "error": "搜索時發生錯誤"
+    },
+    "filters": {
+      "chamber": "法庭",
+      "caseNumber": "案件編號",
+      "decisionNumber": "判決編號",
+      "date": "日期",
+      "apply": "應用篩選"
+    }
+  }
+} 

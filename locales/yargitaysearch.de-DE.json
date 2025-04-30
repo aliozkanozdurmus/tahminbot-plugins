@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "Yargıtay-Entscheidungssuche",
+    "description": "Durchsuchen Sie über 15 Millionen Yargıtay-Entscheidungen (Oberster Gerichtshof) mit erweiterten Filterfunktionen. Dieses professionelle juristische Recherchetool, entwickelt von Hukusis, ermöglicht Ihnen Volltextsuche und Zugriff auf detaillierte Entscheidungsinhalte mit Filterung nach Kammer, Aktenzeichen, Entscheidungsnummer und Datum.",
+    "search": {
+      "placeholder": "Suchbegriffe oder Thema eingeben",
+      "button": "Suchen"
+    },
+    "results": {
+      "title": "Suchergebnisse",
+      "noResults": "Keine Ergebnisse gefunden",
+      "loading": "Suche läuft...",
+      "error": "Bei der Suche ist ein Fehler aufgetreten"
+    },
+    "filters": {
+      "chamber": "Kammer",
+      "caseNumber": "Aktenzeichen",
+      "decisionNumber": "Entscheidungsnummer",
+      "date": "Datum",
+      "apply": "Filter anwenden"
+    }
+  }
+} 

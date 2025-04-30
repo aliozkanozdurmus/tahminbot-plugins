@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "Yargıtay Uitspraken Zoeken",
+    "description": "Doorzoek meer dan 15 miljoen Yargıtay (Hoge Raad) uitspraken met geavanceerde filtermogelijkheden. Deze professionele juridische onderzoeks tool, ontwikkeld door Hukusis, stelt u in staat om full-text zoekopdrachten uit te voeren en gedetailleerde inhoud van uitspraken te bekijken met filtering op kamer, zaaknummer, uitspraaknummer en datum.",
+    "search": {
+      "placeholder": "Voer zoektermen of onderwerp in",
+      "button": "Zoeken"
+    },
+    "results": {
+      "title": "Zoekresultaten",
+      "noResults": "Geen resultaten gevonden",
+      "loading": "Zoeken...",
+      "error": "Er is een fout opgetreden tijdens het zoeken"
+    },
+    "filters": {
+      "chamber": "Kamer",
+      "caseNumber": "Zaaknummer",
+      "decisionNumber": "Uitspraaknummer",
+      "date": "Datum",
+      "apply": "Filters Toepassen"
+    }
+  }
+} 

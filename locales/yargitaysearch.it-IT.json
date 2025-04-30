@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "Ricerca Decisioni Yargıtay",
+    "description": "Cerca tra oltre 15 milioni di decisioni della Corte di Cassazione (Yargıtay) con funzionalità avanzate di filtraggio. Questo strumento professionale di ricerca giuridica, sviluppato da Hukusis, ti permette di effettuare ricerche full-text e accedere al contenuto dettagliato delle decisioni con filtri per sezione, numero di caso, numero di decisione e data.",
+    "search": {
+      "placeholder": "Inserisci termini di ricerca o argomento",
+      "button": "Cerca"
+    },
+    "results": {
+      "title": "Risultati della Ricerca",
+      "noResults": "Nessun risultato trovato",
+      "loading": "Ricerca in corso...",
+      "error": "Si è verificato un errore durante la ricerca"
+    },
+    "filters": {
+      "chamber": "Sezione",
+      "caseNumber": "Numero di Caso",
+      "decisionNumber": "Numero di Decisione",
+      "date": "Data",
+      "apply": "Applica Filtri"
+    }
+  }
+} 

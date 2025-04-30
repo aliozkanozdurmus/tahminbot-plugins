@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "Búsqueda de Decisiones de Yargıtay",
+    "description": "Busque entre más de 15 millones de decisiones de Yargıtay (Tribunal Supremo) con capacidades avanzadas de filtrado. Esta herramienta profesional de investigación legal, desarrollada por Hukusis, le permite realizar búsquedas de texto completo y acceder al contenido detallado de las decisiones con filtrado por sala, número de caso, número de decisión y fecha.",
+    "search": {
+      "placeholder": "Ingrese términos de búsqueda o tema",
+      "button": "Buscar"
+    },
+    "results": {
+      "title": "Resultados de la Búsqueda",
+      "noResults": "No se encontraron resultados",
+      "loading": "Buscando...",
+      "error": "Ocurrió un error durante la búsqueda"
+    },
+    "filters": {
+      "chamber": "Sala",
+      "caseNumber": "Número de Caso",
+      "decisionNumber": "Número de Decisión",
+      "date": "Fecha",
+      "apply": "Aplicar Filtros"
+    }
+  }
+} 

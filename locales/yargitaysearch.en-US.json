@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "Yargıtay Decision Search",
+    "description": "Search through over 15 million Yargıtay (Supreme Court) decisions with advanced filtering capabilities. This professional legal research tool, developed by Hukusis, allows you to perform full-text searches and access detailed content of decisions with filtering by chamber, case number, decision number, and date.",
+    "search": {
+      "placeholder": "Enter search terms or topic",
+      "button": "Search"
+    },
+    "results": {
+      "title": "Search Results",
+      "noResults": "No results found",
+      "loading": "Searching...",
+      "error": "An error occurred while searching"
+    },
+    "filters": {
+      "chamber": "Chamber",
+      "caseNumber": "Case Number",
+      "decisionNumber": "Decision Number",
+      "date": "Date",
+      "apply": "Apply Filters"
+    }
+  }
+} 
