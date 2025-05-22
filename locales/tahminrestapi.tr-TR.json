@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "Yargıtay Karar Arama",
+    "description": "15 milyondan fazla Yargıtay kararı içerisinde gelişmiş filtreleme özellikleriyle arama yapın. TahminBot tarafından geliştirilen bu profesyonel hukuki araştırma aracı, daire, esas numarası, karar numarası ve tarih bazlı filtreleme özellikleriyle tam metin araması yapmanıza ve kararların detaylı içeriklerine erişmenize olanak sağlar.",
+    "search": {
+      "placeholder": "Arama terimleri veya konu girin",
+      "button": "Ara"
+    },
+    "results": {
+      "title": "Arama Sonuçları",
+      "noResults": "Sonuç bulunamadı",
+      "loading": "Aranıyor...",
+      "error": "Arama sırasında bir hata oluştu"
+    },
+    "filters": {
+      "chamber": "Daire",
+      "caseNumber": "Esas Numarası",
+      "decisionNumber": "Karar Numarası",
+      "date": "Tarih",
+      "apply": "Filtreleri Uygula"
+    }
+  }
+} 

@@ -1,8 +1,8 @@
-# Hukusis Eklentileri
+# TahminBot Eklentileri
 
-![Hukusis Logo](https://stinvenireaz084550184237.blob.core.windows.net/invenirecomtr-website/Hukusis-GoogleAramaEklenti-Logo.png)
+![TahminBot Logo](https://stinvenireaz084550184237.blob.core.windows.net/invenirecomtr-website/TahminBot-GoogleAramaEklenti-Logo.png)
 
-Bu proje, Hukusis hukuki araştırma platformu için geliştirilmiş eklentileri içermektedir. Eklentiler, platformun temel işlevselliğini genişleterek kullanıcılara daha kapsamlı ve özelleştirilmiş bir deneyim sunar.
+Bu proje, TahminBot hukuki araştırma platformu için geliştirilmiş eklentileri içermektedir. Eklentiler, platformun temel işlevselliğini genişleterek kullanıcılara daha kapsamlı ve özelleştirilmiş bir deneyim sunar.
 
 ## Mevcut Eklentiler
 
@@ -13,7 +13,7 @@ Bu proje, Hukusis hukuki araştırma platformu için geliştirilmiş eklentileri
 - Dava numarası, karar numarası ve tarih bazlı filtreleme
 - Çoklu dil desteği (Türkçe, İngilizce, Arapça ve daha fazlası)
 
-### 2. Hukusis Arama (HukusisSearch)
+### 2. TahminBot Arama (TahminBotSearch)
 - Kapsamlı hukuki doküman arama
 - Gelişmiş arama filtreleri
 - Çoklu dil desteği
@@ -51,7 +51,7 @@ Bu proje, Hukusis hukuki araştırma platformu için geliştirilmiş eklentileri
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/hukusis/hukusis-plugins.git
+git clone https://github.com/TahminBot/TahminBot-plugins.git
 ```
 
 2. Bağımlılıkları yükleyin:
@@ -78,9 +78,9 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-- E-posta: support@hukusis.com
-- Website: [www.hukusis.com](https://www.hukusis.com)
+- E-posta: support@TahminBot.com
+- Website: [www.TahminBot.com](https://www.TahminBot.com)
 
 ## Teşekkürler
 
-Hukusis ekibi olarak, bu projeye katkıda bulunan tüm geliştiricilere ve kullanıcılara teşekkür ederiz. 
+TahminBot ekibi olarak, bu projeye katkıda bulunan tüm geliştiricilere ve kullanıcılara teşekkür ederiz. 

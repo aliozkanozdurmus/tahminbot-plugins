@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "야르그타이 판결 검색",
+    "description": "고급 필터링 기능을 갖춘 1500만 건 이상의 야르그타이(대법원) 판결을 검색할 수 있습니다. TahminBot가 개발한 이 전문 법률 조사 도구를 통해 전문 검색이 가능하며, 부서, 사건 번호, 판결 번호, 날짜별 필터링으로 판결의 상세 내용에 접근할 수 있습니다.",
+    "search": {
+      "placeholder": "검색어 또는 주제 입력",
+      "button": "검색"
+    },
+    "results": {
+      "title": "검색 결과",
+      "noResults": "검색 결과가 없습니다",
+      "loading": "검색 중...",
+      "error": "검색 중 오류가 발생했습니다"
+    },
+    "filters": {
+      "chamber": "부서",
+      "caseNumber": "사건 번호",
+      "decisionNumber": "판결 번호",
+      "date": "날짜",
+      "apply": "필터 적용"
+    }
+  }
+} 

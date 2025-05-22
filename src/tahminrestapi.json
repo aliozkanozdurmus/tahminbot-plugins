@@ -1,0 +1,16 @@
+{
+  "author": "tahminbot",
+  "createdAt": "2025-01-24",
+  "homepage": "https://tahminbot.com",
+  "identifier": "tahminrestapi",
+  "locale": "en-US",
+  "manifest": "https://apiplugin.tahminbot.com/manifest.json",
+  "meta": {
+    "avatar": "🔍",
+    "tags": ["tahminrestapi"],
+    "title": "(İstatistik Araması)",
+    "description": "tahminrestapi, kullanıcıların üzerinde sorgularını doğal bir dil yapısıyla gerçekleştirmelerini sağlar ve karmaşık taleplere en uygun sonuçları sunar.",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}

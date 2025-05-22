@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "Wyszukiwarka Orzeczeń Yargıtay",
+    "description": "Przeszukaj ponad 15 milionów orzeczeń Sądu Najwyższego (Yargıtay) z zaawansowanymi możliwościami filtrowania. To profesjonalne narzędzie do badań prawnych, opracowane przez TahminBot, umożliwia wyszukiwanie pełnotekstowe i dostęp do szczegółowej treści orzeczeń z filtrowaniem według izby, numeru sprawy, numeru orzeczenia i daty.",
+    "search": {
+      "placeholder": "Wprowadź terminy wyszukiwania lub temat",
+      "button": "Szukaj"
+    },
+    "results": {
+      "title": "Wyniki Wyszukiwania",
+      "noResults": "Nie znaleziono wyników",
+      "loading": "Wyszukiwanie...",
+      "error": "Wystąpił błąd podczas wyszukiwania"
+    },
+    "filters": {
+      "chamber": "Izba",
+      "caseNumber": "Numer Sprawy",
+      "decisionNumber": "Numer Orzeczenia",
+      "date": "Data",
+      "apply": "Zastosuj Filtry"
+    }
+  }
+} 

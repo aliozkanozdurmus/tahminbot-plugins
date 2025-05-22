@@ -1,0 +1,23 @@
+{
+  "yargitaysearch": {
+    "title": "最高法院判决搜索",
+    "description": "使用高级筛选功能搜索超过1500万份最高法院(Yargıtay)判决。这个由TahminBot开发的专业法律研究工具，允许您进行全文搜索，并通过法庭、案件编号、判决编号和日期筛选访问判决的详细内容。",
+    "search": {
+      "placeholder": "输入搜索词或主题",
+      "button": "搜索"
+    },
+    "results": {
+      "title": "搜索结果",
+      "noResults": "未找到结果",
+      "loading": "搜索中...",
+      "error": "搜索时发生错误"
+    },
+    "filters": {
+      "chamber": "法庭",
+      "caseNumber": "案件编号",
+      "decisionNumber": "判决编号",
+      "date": "日期",
+      "apply": "应用筛选"
+    }
+  }
+} 

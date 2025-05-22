@@ -1,0 +1,16 @@
+{
+  "author": "tahminbot",
+  "createdAt": "2025-01-23",
+  "homepage": "https://tahminbot.com",
+  "identifier": "tahminsearch",
+  "locale": "en-US",
+  "manifest": "https://webplugin.tahminbot.com/manifest.json",
+  "meta": {
+    "avatar": "🔍",
+    "tags": ["tahminsearch"],
+    "title": "(İnternet Araması)",
+    "description": "tahminsearch, kullanıcıların Google üzerinde sorgularını doğal bir dil yapısıyla gerçekleştirmelerini sağlar ve karmaşık taleplere en uygun sonuçları sunar.",
+    "category": "web-search"
+  },
+  "schemaVersion": 1
+}
